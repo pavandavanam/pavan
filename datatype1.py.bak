@@ -1,0 +1,10 @@
+x=5
+print(type(x))   # python will executed dynamlically its is int value
+y=10.5
+print(type(y)) #its is float value
+z=True
+print(type(z))     # boolean value in python we cal as bool
+b=1j
+print(type(b))   # complex value
+c={"name":"pavan","age":36}
+print(c)
